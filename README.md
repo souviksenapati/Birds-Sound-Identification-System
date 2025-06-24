@@ -62,7 +62,7 @@ pip install tensorflow==2.12.0 --upgrade
 
 To use this project, follow these steps:
 
-1. Clone the repository: ```git clone https://github.com/lovieheartz/Bird-Sound-Classification-DL```
+1. Clone the repository: ```git clone https://github.com/souviksenapati/Birds-Sound-Identification-System```
 2. Install the required packages: ```pip install -r requirements.txt```
 3. Run the Flask app: ```python app.py```
 4. Access the app in your browser at ```http://127.0.0.1:7860```
@@ -106,7 +106,7 @@ To use this project, follow these steps:
 
 <br />
 
-🚀 **Application:** https://huggingface.co/spaces/lovieheartz/Bird-Sound-Classification-DL
+🚀 **Application:** https://huggingface.co/spaces/souviksenapati/Birds-Sound-Classification-Using-DL
 
 <br />
 
@@ -124,7 +124,7 @@ This project is licensed under the MIT License. Please review the LICENSE file f
 
 **Contact**
 
-📧 Email : rehanfarooque51@gmail.com
+📧 Email : souviksenapati85@gmail.com
 
 For any further questions or inquiries, feel free to reach out. We are happy to assist you with any queries.
 
